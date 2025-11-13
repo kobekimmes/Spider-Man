@@ -1,0 +1,1 @@
+Web crawler written in Go, inspired by ![A Tour of Go](https://go.dev/tour/concurrency/10) (the web-crawler exercise)
